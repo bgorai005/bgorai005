@@ -1,17 +1,31 @@
-# Hi there, I'm Biswajit 👋
+# Hi there 👋, I'm Biswajit  
+
+🚀 Passionate about **AI, Data Science, and Machine Learning**, I enjoy building intelligent systems and solving challenging problems with code.  
+
+---
+
+## 🔧 Technologies & Tools  
+- **Languages:** Python, C++, MATLAB  
+- **Data Science & ML:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **MLOps:** Docker, DVC, Airflow, Weights & Biases, Fastapi 
+- **Other Tools:** Git, VS Code, Jupyter, Streamlit  
+
+---
 
 
-<!--
-**bgorai005/bgorai005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 Achievements  
+- 🎓 **M.Tech in Mathematics & Computing**   
+- 📊 Experienced with **EDA, Model Building, and ML and Dl**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with Me  
+-  [LinkedIn](http://www.linkedin.com/in/29458a207)  
+
+- 📧 Email: `goraibiswajit886@gmail.com`  
+
+---
+
+✨ *“Always learning, always building.”*  
