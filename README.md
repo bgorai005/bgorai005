@@ -12,9 +12,6 @@
 
 ---
 
-
----
-
 ## 🏆 Achievements  
 - 🎓 **M.Tech in Mathematics & Computing**   
 - 📊 Experienced with **EDA, Model Building, and ML and Dl**.  
