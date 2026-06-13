@@ -7,7 +7,7 @@
 ##  Technologies & Tools  
 - **Languages:** Python, C++, MATLAB  
 - **Data Science & ML:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **MLOps:** Docker, DVC, Airflow, Weights & Biases, Fastapi 
+- **MLOps:** Docker, DVC, Airflow, Weights & Biases, Fastapi, spark
 - **Other Tools:** Git, VS Code, Jupyter, Streamlit  
 
 ---
